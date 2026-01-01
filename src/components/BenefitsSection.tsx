@@ -24,7 +24,7 @@ const benefits = [
   {
     icon: Bot,
     title: "Smart AI Agents",
-    description: "Custom-trained AI that understands your unique business context.",
+    description: "Custom-trained AI Automations that understands your unique business context.",
   },
   {
     icon: Users,
