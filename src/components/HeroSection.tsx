@@ -56,13 +56,13 @@ const HeroSection = () => {
 
           {/* Trust indicators */}
           <div className="mt-16 animate-fade-in" style={{ animationDelay: "0.4s" }}>
-            <p className="text-muted-foreground text-sm mb-6">Trusted by innovative companies worldwide</p>
+            <p className="text-muted-foreground text-sm mb-6">Trusted* by innovative companies worldwide</p>
             <div className="flex flex-wrap justify-center items-center gap-8 opacity-60">
-              <span className="text-2xl font-bold text-foreground">TechFlow</span>
-              <span className="text-2xl font-bold text-foreground">DataSync</span>
-              <span className="text-2xl font-bold text-foreground">CloudNine</span>
-              <span className="text-2xl font-bold text-foreground">Innovate</span>
-              <span className="text-2xl font-bold text-foreground">NextGen</span>
+              <span className="text-2xl font-bold text-foreground">TechFlow*</span>
+              <span className="text-2xl font-bold text-foreground">DataSync*</span>
+              <span className="text-2xl font-bold text-foreground">CloudNine*</span>
+              <span className="text-2xl font-bold text-foreground">Innovate*</span>
+              <span className="text-2xl font-bold text-foreground">NextGen*</span>
             </div>
           </div>
         </div>
