@@ -1,4 +1,4 @@
-import { Bot, Mail, MapPin, Phone, Linkedin, Twitter } from "lucide-react";
+import { Bot, Mail, MapPin, Phone, Linkedin, Twitter, Instagram } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -21,7 +21,7 @@ const Footer = () => {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a href="#" className="w-10 h-10 rounded-lg bg-secondary flex items-center justify-center hover:bg-primary/20 hover:text-primary transition-colors">
-                <Twitter className="w-5 h-5" />
+                <Instagram className="w-5 h-5" />
               </a>
             </div>
           </div>
