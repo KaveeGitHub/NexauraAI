@@ -10,7 +10,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="lg:col-span-1">
             <div className="flex items-center gap-2 mb-6">
-              <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center">
+              <div className="w-10 h-10 rounded-lg flex items-center justify-center">
                 <img src={logo} alt="NexauraAI" className="w-full h-full object-contain" />
               </div>
               <span className="text-xl font-bold text-foreground">NexauraAI</span>
