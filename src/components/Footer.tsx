@@ -1,5 +1,5 @@
 import { Bot, Mail, MapPin, Phone, Linkedin, Twitter, Instagram } from "lucide-react";
-import logo from "logo.png";
+import logo from "./logo.png";
 
 
 const Footer = () => {
