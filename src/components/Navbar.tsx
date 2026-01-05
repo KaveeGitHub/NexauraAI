@@ -20,7 +20,7 @@ const Navbar = () => {
           {/* Logo */}
           <a href="/" className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center">
-              <img src="logo.png" alt="Logo" className="w-6 h-6" />
+              <img src={logo} alt="NexauraAI" className="w-full h-full" />
             </div>
             <span className="text-xl font-bold text-foreground">NexauraAI</span>
           </a>
