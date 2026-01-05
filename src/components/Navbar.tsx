@@ -19,9 +19,9 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <a href="/" className="flex items-center gap-2">
-            <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center">
-              <img src={logo} alt="NexauraAI" className="w-10 h-10 />
-            </div>
+           <div className="w-14 h-14 rounded-lg bg-gradient-primary flex items-center justify-center">
+            <img src={logo} alt="NexauraAI" className="w-full h-full object-contain"/>
+             </div>
             <span className="text-xl font-bold text-foreground">NexauraAI</span>
           </a>
 
