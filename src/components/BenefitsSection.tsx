@@ -35,7 +35,7 @@ const benefits = [
 
 const BenefitsSection = () => {
   return (
-    <section className="py-24 bg-background relative overflow-hidden">
+    <section id="about" className="py-24 bg-background relative overflow-hidden">
       {/* Background gradient */}
       <div className="absolute inset-0 bg-gradient-to-b from-secondary/20 to-transparent pointer-events-none" />
       
