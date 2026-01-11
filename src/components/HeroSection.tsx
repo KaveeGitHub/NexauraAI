@@ -53,6 +53,7 @@ const HeroSection = () => {
               <a href="https://tally.so/r/xXj5Gr" target="_blank" rel="noopener noreferrer">
               <Play className="w-5 h-5" />
               Watch Demo
+                </a>
             </Button>
           </div>
 
