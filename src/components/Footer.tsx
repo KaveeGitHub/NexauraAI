@@ -32,10 +32,10 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold text-foreground mb-6">Services</h4>
             <ul className="space-y-4">
-              <li><a href="#" className="text-muted-foreground hover:text-primary transition-colors">Workflow Automation</a></li>
-              <li><a href="#" className="text-muted-foreground hover:text-primary transition-colors">AI Chatbots</a></li>
-              <li><a href="#" className="text-muted-foreground hover:text-primary transition-colors">Data Analytics</a></li>
-              <li><a href="#" className="text-muted-foreground hover:text-primary transition-colors">Custom AI Solutions</a></li>
+              <li><a href="#services" className="text-muted-foreground hover:text-primary transition-colors">Workflow Automation</a></li>
+              <li><a href="#services" className="text-muted-foreground hover:text-primary transition-colors">AI Chatbots</a></li>
+              <li><a href="#services" className="text-muted-foreground hover:text-primary transition-colors">Data Analytics</a></li>
+              <li><a href="#services" className="text-muted-foreground hover:text-primary transition-colors">Custom AI Solutions</a></li>
             </ul>
           </div>
 
