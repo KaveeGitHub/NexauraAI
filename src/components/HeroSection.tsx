@@ -50,9 +50,9 @@ const HeroSection = () => {
               </a>
             </Button>
             <Button variant="heroOutline" size="xl">
-              <a href="https://tally.so/r/xXj5Gr" target="_blank" rel="noopener noreferrer">
               <Play className="w-5 h-5" />
               Watch Demo
+               <a href="https://tally.so/r/xXj5Gr" target="_blank" rel="noopener noreferrer">
                 </a>
             </Button>
           </div>
