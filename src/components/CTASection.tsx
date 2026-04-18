@@ -31,7 +31,7 @@ const CTASection = () => {
           </div>
 
           <p className="mt-8 text-muted-foreground text-sm">
-            No commitment required · ROI analysis included
+            Zero Risks Involved · Free Trials Included
           </p>
         </div>
       </div>
